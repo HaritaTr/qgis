@@ -1,2 +1,2 @@
-# qgis
+# Qgis
 Qgis çizimleri..
